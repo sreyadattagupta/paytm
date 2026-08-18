@@ -451,7 +451,7 @@ UPI moves **billions** of transactions. The April 2026 mandate added a second lo
 
 ---
 
-**Built with ❤️ by [@satyamtripathi](#) for Paytm Build for India**
+**Built with ❤️ by [@sreyadattagupta](dsreya799@gmail.com) for Paytm Build for India**
 
 `#BuildForIndia` · `@Sarvam` · `@HackCulture`
 
