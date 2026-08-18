@@ -28,7 +28,7 @@
 
 > 🏆 Extends **Risk Radar**, the trust-scoring agent from *Asli Meesho* — a platform I solo-built that reached the **Top 20 of 36,300+ registrants** at Meesho's ScriptedByHer 2.0 hackathon.
 
-**🔗 Repo + Demo:** _[your GitHub link]_
+**🔗 Repo + Demo:**(https://github.com/sreyadattagupta/asli_meesho)
 
 </div>
 
